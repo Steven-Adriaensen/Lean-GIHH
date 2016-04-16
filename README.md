@@ -12,12 +12,12 @@ If you do, we kindly ask you to acknowledge this, by citing the following articl
 [1] Steven Adriaensen, and Ann Nowé. "Case Study: An Analysis of Accidental Complexity in a State-of-the-art Hyper-heuristic for HyFlex." 
 Evolutionary Computation (CEC), 2016 IEEE Congress on. IEEE, 2016.
 
-@inproceedings{adriaensen2016case,
-  title={Case Study: An Analysis of Accidental Complexity in a State-of-the-art Hyper-heuristic for HyFlex},
-  author={Adriaensen, Steven and Now{\'e}, Ann},
-  booktitle={Evolutionary Computation (CEC), 2016 IEEE Congress on},
-  year={2016},
-  organization={IEEE}
+@inproceedings{adriaensen2016case, <br />
+  title={Case Study: An Analysis of Accidental Complexity in a State-of-the-art Hyper-heuristic for HyFlex}, <br />
+  author={Adriaensen, Steven and Now{\'e}, Ann}, <br />
+  booktitle={Evolutionary Computation (CEC), 2016 IEEE Congress on}, <br />
+  year={2016}, <br />
+  organization={IEEE} <br />
 }
 
 **Content**:
